@@ -1,0 +1,13 @@
+INDEX VERSION 1.131+C:\development\gradle\test\.metadata\.plugins\org.eclipse.jdt.core
+1048350443.index
+15900305.index
+793801806.index
+62112178.index
+755970374.index
+279913089.index
+2533446520.index
+2144754334.index
+3313497845.index
+240346241.index
+4151858220.index
+2341091101.index
